@@ -3,7 +3,7 @@
   Template Name: Simply Construction HTML Template.
   Template URI: #
   Description: Simply Construction is a unique website template designed in HTML with a simple & beautiful look. There is an excellent solution for creating clean, wonderful and trending material design corporate, corporate any other purposes websites.
-  Author: DevItems
+  Author: Naveen
   Version: 1.0
 
 -----------------------------------------------------------------------------------
@@ -405,7 +405,7 @@
 
 
 
-/*! jQuery UI - v1.12.1 - 2017-02-06
+/*! jQuery UI - v1.12.1 - 2025-02-06
 * http://jqueryui.com
 * Includes: widget.js, keycode.js, unique-id.js, widgets/accordion.js
 * Copyright jQuery Foundation and other contributors; Licensed MIT */
