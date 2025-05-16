@@ -1,0 +1,30 @@
+
+
+/* Default: Mobile & Tablet (100%) */
+.logo img,
+.sticky__header.scroll-header .logo a img {
+  scale: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  object-fit: contain;
+}
+
+/* Desktop view (≥1025px): scale up */
+@media (min-width: 1025px) {
+  .logo img {
+    scale: 140%;
+  }
+
+  .sticky__header.scroll-header .logo a img {
+    max-width: 123px;
+    scale: 120%;
+  }
+}
+
+/* Optional: make sure logo container doesn't clip */
+.logo {
+  overflow: visible; /* Make sure it's not hiding overflow */
+  display: flex;
+  align-items: center;
+}
